@@ -475,10 +475,7 @@
 								<div
 									class="absolute z-0 transition scale-95 border shadow opacity-0 bg-zinc-50/70 -inset-y-6 -inset-x-4 border-black/10 group-hover:opacity-100 group-hover:shadow-lg dark:border-white/10 dark:bg-zinc-900/20 sm:-inset-x-6 sm:rounded-2xl"
 								/>
-								<a
-									target="_blank"
-									rel="noopener noreferrer"
-									href="https://github.com/educlopez/movie-list"
+								<a target="_blank" rel="noopener noreferrer" href={project.github}
 									><span
 										class="absolute z-20 -inset-y-6 -inset-x-4 sm:-inset-x-6 sm:rounded-2xl"
 									/><span class="relative z-10">{project.name}</span></a
