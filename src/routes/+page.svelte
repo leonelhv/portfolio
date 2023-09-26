@@ -362,51 +362,6 @@
 					class="transition-all group-hover:opacity-20 group-hover:blur-sm sm:h-7 blur-0 grayscale-0"
 					rel="noopener noreferrer"
 					target="_blank"
-					aria-label="Read.cv"
-					href="https://drive.google.com/file/d/1Gg5TWssI8mM9ii-2p0ifYhfwXCmdwPzc/view"
-					><svg
-						xmlns="http://www.w3.org/2000/svg"
-						width="24"
-						height="24"
-						viewBox="0 0 24 24"
-						fill="none"
-						stroke="currentColor"
-						stroke-width="2"
-						stroke-linecap="round"
-						stroke-linejoin="round"
-						class="w-6 h-6 stroke-[1.5px] transition text-neutral-900 group-hover:text-neutral-900 dark:text-zinc-400 dark:group-hover:text-outline-300 outline-zinc-900 group-hover:outline-zinc-900 dark:outline-zinc-400 dark:group-hover:text-zinc-300"
-						><path
-							d="M10 17v2a2 2 0 0 1-2 2v0a2 2 0 0 1-2-2V5a2 2 0 0 0-2-2v0a2 2 0 0 0-2 2v3h3"
-						/><path d="M22 17v2a2 2 0 0 1-2 2H8" /><path d="M19 17V5a2 2 0 0 0-2-2H4" /><path
-							d="M22 17H10"
-						/></svg
-					></a
-				>
-			</div>
-			<div class="relative group">
-				<div
-					class="transition-all translate-y-5 opacity-0 group-hover:translate-y-3 group-hover:opacity-100"
-				>
-					<div class="relative flex items-center group">
-						<svg
-							xmlns="http://www.w3.org/2000/svg"
-							width="24"
-							height="24"
-							viewBox="0 0 24 24"
-							fill="none"
-							stroke="currentColor"
-							stroke-width="2"
-							stroke-linecap="round"
-							stroke-linejoin="round"
-							class="absolute w-4 h-4 transition-all opacity-0 group-hover:translate-x-1 group-hover:opacity-100"
-							><line x1="7" x2="17" y1="17" y2="7" /><polyline points="7 7 17 7 17 17" /></svg
-						>
-					</div>
-				</div>
-				<a
-					class="transition-all group-hover:opacity-20 group-hover:blur-sm sm:h-7 blur-0 grayscale-0"
-					rel="noopener noreferrer"
-					target="_blank"
 					aria-label="Enviar Correo"
 					href="mailto:leonel.huachacav@gmail.com"
 					><svg
